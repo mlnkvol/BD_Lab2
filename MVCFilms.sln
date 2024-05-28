@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{96B13F31-CAB2-489E-B51F-3977AF561CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmsDomain", "FilmsDomain\FilmsDomain.csproj", "{532B0F1F-756A-4CAD-97D3-10EAB2E4A401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmsInfrastructure", "FilmsInfrastructure\FilmsInfrastructure.csproj", "{8A8CC374-C646-4B92-A48F-9F63310AAC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532B0F1F-756A-4CAD-97D3-10EAB2E4A401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532B0F1F-756A-4CAD-97D3-10EAB2E4A401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532B0F1F-756A-4CAD-97D3-10EAB2E4A401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532B0F1F-756A-4CAD-97D3-10EAB2E4A401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8CC374-C646-4B92-A48F-9F63310AAC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8CC374-C646-4B92-A48F-9F63310AAC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8CC374-C646-4B92-A48F-9F63310AAC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8CC374-C646-4B92-A48F-9F63310AAC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{532B0F1F-756A-4CAD-97D3-10EAB2E4A401} = {96B13F31-CAB2-489E-B51F-3977AF561CB3}
+		{8A8CC374-C646-4B92-A48F-9F63310AAC0E} = {96B13F31-CAB2-489E-B51F-3977AF561CB3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA4113F-D055-4228-B08B-8AD246BBBA62}
+	EndGlobalSection
+EndGlobal

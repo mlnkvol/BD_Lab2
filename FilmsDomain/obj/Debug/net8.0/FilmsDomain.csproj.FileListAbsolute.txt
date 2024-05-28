@@ -1,0 +1,14 @@
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\bin\Debug\net8.0\FilmsDomain.deps.json
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\bin\Debug\net8.0\FilmsDomain.dll
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\bin\Debug\net8.0\FilmsDomain.pdb
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.AssemblyInfoInputs.cache
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.AssemblyInfo.cs
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.csproj.CoreCompileInputs.cache
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.dll
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\refint\FilmsDomain.dll
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.pdb
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\ref\FilmsDomain.dll
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\bin\Debug\net8.0\FilmsDomain.runtimeconfig.json
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.genruntimeconfig.cache
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsDomain\obj\Debug\net8.0\FilmsDomain.csproj.AssemblyReference.cache

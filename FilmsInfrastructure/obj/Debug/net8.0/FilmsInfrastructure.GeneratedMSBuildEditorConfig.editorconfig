@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FilmsInfrastructure
+build_property.RootNamespace = FilmsInfrastructure
+build_property.ProjectDir = C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsInfrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\MVCFilms\FilmsInfrastructure
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/ActorsFilms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzRmlsbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/ActorsFilms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzRmlsbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/ActorsFilms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzRmlsbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/ActorsFilms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzRmlsbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/ActorsFilms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzRmlsbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Actors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Actors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Actors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Actors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Directors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Directors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Directors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Directors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Directors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/CreateInFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcQ3JlYXRlSW5GaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/IndexDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXhEaXJlY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Films/IndexGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXhHZW5yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Preorders/PaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlb3JkZXJzXFBheW1lbnRJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Queries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Queries/Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xSZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5vb2caczro
+
+[C:/Users/melni/OneDrive/Рабочий стол/KNU/БД/MVCFilms/FilmsInfrastructure/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sy1df2ikue

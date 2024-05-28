@@ -1,0 +1,17 @@
+﻿@model ErrorViewModel
+@{
+	ViewData["Title"] = "Помилка";
+}
+
+<h1 style="margin-bottom:20px;" class="text-danger">Помилка під час імпортування</h1>
+
+@if (ViewBag.ErrorMessage.Length > 0)
+{
+	<h5 style="margin-bottom:20px;">
+		@foreach (var e in ViewBag.ErrorMessage)
+		{
+			<p>@e</p>
+		}
+	</h5>
+
+}
